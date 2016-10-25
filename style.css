@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(112, 133, 148);
+    padding: 100px;
+    color: #ffffff;
+    background-image: url(images/title.png);
+    }
+
+a {
+    color #39ac73;
+    text_decoration: none;
+    }
+    
+a:hover {
+    color: #206040
+    }
