@@ -20,15 +20,15 @@ h2 (
 )
 
 #location-header {
-    border-top: 1px solid #b9afaf
+    border-top: 1px solid #b9afaf;
     margin-top: 48px;
     padding-top: 20px;
 }
 
 .price {
-     color: #901b2e
+     color: #901b2e;
 }
 
 #name {
-    color: #132630
+    color: #132630;
 }
